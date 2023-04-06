@@ -1,5 +1,0 @@
-Class HelloWorld{
-	public ststic void main(string args[]){
-		system.out.println("Hello from the land of Jenkins");
-	}
-}
