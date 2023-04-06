@@ -1,0 +1,5 @@
+class HelloJenkins{
+  public static void main (String args[]){
+    System.ot.println("Welcome to the world of junkins....");
+  }
+}
