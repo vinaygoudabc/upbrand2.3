@@ -1,0 +1,6 @@
+class HelloWorld{
+
+	public static void main(String args[]){
+	  System.out.println("Weloce to the World of jenkins.....");
+	}
+}
