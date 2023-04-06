@@ -1,7 +1,8 @@
 class HelloWorld{
 
 	public static void main(String args[]){
-	  System.out.println("Weloce to the World of jenkins.....");
+	  System.out.println("Welcome to the World of jenkins.....");
 	  System.out.println("Did some changes to check wether it will reflect or not")
+	  System.out.println("Welocome to jenkins again  workinf java from gitHub");
 	}
 }
